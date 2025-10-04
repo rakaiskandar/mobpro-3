@@ -1,5 +1,5 @@
 # Tugas 3 - Mobile Programming IK322
-Repositori ini berisi proyek untuk Tugas 1 mata kuliah Pemrograman Mobile. Aplikasi ini dibuat menggunakan React Native dan Expo, menampilkan profil minuman Little Lemon dan laman untuk Subscribe.
+Repositori ini berisi proyek untuk Tugas 3 mata kuliah Pemrograman Mobile. Aplikasi ini dibuat menggunakan React Native dan Expo, menampilkan profil minuman Little Lemon dan laman untuk Subscribe.
 
   - **Nama:** Raka Iskandar
   - **NIM:** 2306068
